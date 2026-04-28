@@ -1,5 +1,5 @@
-# Stock Manager 
-Sistema de Estoque de uma Loja de Materiais de Construção  
+# Stock Manager Darcan
+Sistema de Estoque de uma Loja de Materiais de Construção chamada Darcan   
 Feito inteiramente em Python com integração com Streamlit e MySQL
 
 ### Programas Necessários
